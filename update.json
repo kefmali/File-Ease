@@ -1,6 +1,7 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.4.0",
   "download_url": "https://raw.githubusercontent.com/kefmali/File-Ease/main/FileEase_Setup.exe",
-  "changelog": "Faster loading, new icon fix, smoother scan."
+  "changelog": " v1.4.0 GENIUS AI UPDATE:\n\n Genius Sort: Organizes files by reading their content (Finance, Legal, Code, etc.)\n\n Timeline Sort: Automatically sorts Photos & Videos into Year folders (e.g., 2024).\n\n Ghost Scanner: Finds large, unused files to free up space.\n\n New Look"
 }
+
 
